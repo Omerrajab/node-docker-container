@@ -1,0 +1,6 @@
+{
+    "watch": ["src", "Dockerfile"],
+    "ext": "js,json",
+    "exec": "npm run docker:refresh"
+  }
+  
